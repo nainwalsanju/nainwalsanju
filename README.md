@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;%3F)](https://git.io/typing-svg)
 
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
+</p>
+
 <p align='left'>Results-driven Software Engineer with 3 years of experience in Full Stack development (BackEnd Heavy), specializing in Java, WebRTC &
 Spring Framework. Proficient in RESTful API & SOAP API design, Agile methodologies, and working with SQL and Non-SQL databases.
 Demonstrated ability to develop highly efficient and reliable anomaly detectors and network security solutions. Willing to continuously
