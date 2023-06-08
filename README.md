@@ -14,5 +14,6 @@ learn and adapt to new technologies and contribute to the growth and success of 
 ### Professional Streak
 [![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjaynainwal&layout=compact)]([https://github.com/sanjaynainwal/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/?user=sanjaynainwal&layout=compact))
 ### Personal Projects' Streak
-[![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=nainwalsanju&layout=compact)]([https://github.com/nainwalsanju/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/?user=nainwalsanju&layout=compact)</br>
+[![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=nainwalsanju&layout=compact)]([https://github.com/nainwalsanju/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/?user=nainwalsanju&layout=compact))
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nainwalsanju&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=nainwalsanju&layout=compact)
