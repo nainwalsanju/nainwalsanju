@@ -12,4 +12,4 @@ learn and adapt to new technologies and contribute to the growth and success of 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=nainwalsanju&show_icons=true&include_all_commits=true)]([https://github.com/nainwalsanju/github-readme-stats](https://github-readme-stats.vercel.app/api?username=nainwalsanju&show_icons=true&include_all_commits=true))
 [![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=nainwalsanju&layout=compact)]([https://github.com/nainwalsanju/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/?user=nainwalsanju&layout=compact))</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nainwalsanju&layout=compact)]((https://github-readme-stats.vercel.app/api/top-langs/?username=nainwalsanju&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nainwalsanju&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=nainwalsanju&layout=compact)
