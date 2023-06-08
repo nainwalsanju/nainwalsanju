@@ -11,7 +11,7 @@
 <p align='left'>Results-driven Software Engineer with 3 years of experience in Full Stack development (BackEnd Heavy), specializing in Java, WebRTC &
 Spring Framework. Proficient in RESTful API & SOAP API design, Agile methodologies, and working with SQL and Non-SQL databases.
 Demonstrated ability to develop highly efficient and reliable anomaly detectors and network security solutions. Willing to continuously
-learn and adapt to new technologies and contribute to the growth and success of a dynamic team.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1Rm3S-u6_7r4yDQefWNypFrHlhaY6HII9/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+learn and adapt to new technologies and contribute to the growth and success of a dynamic team.</p><p align='left'><b> You can view my resume <a href='https://drive.google.com/file/d/1Rm3S-u6_7r4yDQefWNypFrHlhaY6HII9/view?usp=sharing ' target=_blank><u>here</u>.</a></b></p>
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=nainwalsanju alt=nainwalsanju /> </p>
