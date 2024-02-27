@@ -17,7 +17,8 @@ learn and adapt to new technologies and contribute to the growth and success of 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=nainwalsanju alt=nainwalsanju /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=nainwalsanju&show_icons=true&include_all_commits=true)]([https://github.com/nainwalsanju/github-readme-stats](https://github-readme-stats.vercel.app/api?username=nainwalsanju&show_icons=true&include_all_commits=true))
+[![Github stats](https://github-readme-stats.vercel.app/api?username=nainwalsanju&show_icons=true&include_all_commits=true)]([https://github.com/nainwalsanju/github-readme-stats](https://github-readme-stats.vercel.app/api?username=nainwalsanju&show_icons=true&include_all_commits=true))[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nainwalsanju&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=nainwalsanju&layout=compact)
+
 
 | Professional Streak                             | Personal Projects' Streak                           |
 |-------------------------------------------------|-----------------------------------------------------|
@@ -29,5 +30,5 @@ learn and adapt to new technologies and contribute to the growth and success of 
 ### Personal Projects' Streak
 [![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=nainwalsanju&layout=compact)]([https://github.com/nainwalsanju/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/?user=nainwalsanju&layout=compact))
 </br>
---->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nainwalsanju&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=nainwalsanju&layout=compact)
+--->
