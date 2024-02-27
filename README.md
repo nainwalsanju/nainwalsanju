@@ -19,9 +19,15 @@ learn and adapt to new technologies and contribute to the growth and success of 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=nainwalsanju&show_icons=true&include_all_commits=true)]([https://github.com/nainwalsanju/github-readme-stats](https://github-readme-stats.vercel.app/api?username=nainwalsanju&show_icons=true&include_all_commits=true))
 
+| Professional Streak                             | Personal Projects' Streak                           |
+|-------------------------------------------------|-----------------------------------------------------|
+| [![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjaynainwal&layout=compact)](https://github.com/sanjaynainwal/github-readme-stats) | [![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=nainwalsanju&layout=compact)](https://github.com/nainwalsanju/github-readme-stats) |
+
+<!--
 ### Professional Streak
 [![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjaynainwal&layout=compact)]([https://github.com/sanjaynainwal/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/?user=sanjaynainwal&layout=compact))
 ### Personal Projects' Streak
 [![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=nainwalsanju&layout=compact)]([https://github.com/nainwalsanju/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/?user=nainwalsanju&layout=compact))
 </br>
+--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nainwalsanju&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=nainwalsanju&layout=compact)
