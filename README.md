@@ -1,13 +1,15 @@
 ## Hey 👋, This is Sanjay Nainwal
 [![Gmail Badge](https://img.shields.io/badge/-sanjaynainwal129@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sanjaynainwal129@gmail.com)](mailto:sanjaynainwal129@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-sanjaynainwal-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjay-nainwal/)](https://www.linkedin.com/in/sanjay-nainwal/) [![Github Badge](https://img.shields.io/badge/-nainwalsanju-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nainwalsanju/)](https://www.github.com/nainwalsanju/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://sanjaynainwal.vercel.app//)](https://sanjaynainwal.vercel.app/) 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-NA-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/NA/)](https://www.twitter.com/NA/) -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;%3F)](https://git.io/typing-svg)
-
+[![Linkedin Badge](https://img.shields.io/badge/-sanjaynainwal-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjay-nainwal/)](https://www.linkedin.com/in/sanjay-nainwal/) 
+[![Github Badge](https://img.shields.io/badge/-nainwalsanju-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nainwalsanju/)](https://www.github.com/nainwalsanju/) 
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://sanjaynainwal.vercel.app//)](https://sanjaynainwal.vercel.app/) 
+[![Twitter Badge](https://img.shields.io/badge/-sanjay__nainwal-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/sanjay__nainwal/)](https://www.twitter.com/sanjay__nainwal/)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Software+Engineer;%3F)](https://git.io/typing-svg)-->
+<!--
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
 </p>
+-->
 
 <p align='left'>I'm Sanjay Nainwal, a passionate full-stack developer with a knack for crafting innovative web applications. My expertise in Java, WebRTC, Spring Framework, and AI/ML fuels my ability to tackle complex challenges and deliver exceptional results.
 
@@ -32,4 +34,4 @@ A fast learner thriving in dynamic environments, I'm constantly seeking new tech
 [![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=nainwalsanju&layout=compact)]([https://github.com/nainwalsanju/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/?user=nainwalsanju&layout=compact))
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nainwalsanju&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=nainwalsanju&layout=compact)
---->
+-->
