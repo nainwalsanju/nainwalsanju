@@ -17,10 +17,10 @@ learn and adapt to new technologies and contribute to the growth and success of 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=nainwalsanju alt=nainwalsanju /> </p>
 
-## Professional Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=sanjaynainwal alt=sanjaynainwal /> </p>
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=nainwalsanju&show_icons=true&include_all_commits=true)]([https://github.com/nainwalsanju/github-readme-stats](https://github-readme-stats.vercel.app/api?username=nainwalsanju&show_icons=true&include_all_commits=true))
+
+[![Github Professional stats](https://github-readme-stats.vercel.app/api?username=sanjaynainwal&show_icons=true&include_all_commits=true)]([https://github.com/sanjaynainwal/github-readme-stats](https://github-readme-stats.vercel.app/api?username=sanjaynainwal&show_icons=true&include_all_commits=true))
+
 ### Professional Streak
 [![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjaynainwal&layout=compact)]([https://github.com/sanjaynainwal/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/?user=sanjaynainwal&layout=compact))
 ### Personal Projects' Streak
