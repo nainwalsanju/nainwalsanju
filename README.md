@@ -9,10 +9,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
 </p>
 
-<p align='left'>Results-driven Software Engineer with 3 years of experience in Full Stack development (BackEnd Heavy), specializing in Java, WebRTC &
-Spring Framework. Proficient in RESTful API & SOAP API design, Agile methodologies, and working with SQL and Non-SQL databases.
-Demonstrated ability to develop highly efficient and reliable anomaly detectors and network security solutions. Willing to continuously
-learn and adapt to new technologies and contribute to the growth and success of a dynamic team.</p><p align='left'><b> You can view my resume <a href='https://drive.google.com/file/d/1LMW86Iay7KkxTTMxnRmnoZFB6CdNUnoj/view' target=_blank rel="noopener noreferrer"><u>here</u>.</a></b></p>
+<p align='left'>I'm Sanjay Nainwal, a passionate full-stack developer with a knack for crafting innovative web applications. My expertise in Java, WebRTC, Spring Framework, and AI/ML fuels my ability to tackle complex challenges and deliver exceptional results.
+
+Proficient in API design and a champion of agile collaboration, I bring diverse experience building efficient anomaly detectors, image processing solutions, and secure network systems.
+
+A fast learner thriving in dynamic environments, I'm constantly seeking new technologies and opportunities to contribute. This GitHub profile showcases my journey, code, and desire to learn alongside the developer community..</p><p align='left'><b> You can view my resume <a href='https://drive.google.com/file/d/1LMW86Iay7KkxTTMxnRmnoZFB6CdNUnoj/view' target=_blank rel="noopener noreferrer"><u>here</u>.</a></b></p>
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=nainwalsanju alt=nainwalsanju /> </p>
