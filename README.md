@@ -15,7 +15,7 @@
 
 Proficient in API design and a champion of agile collaboration, I bring diverse experience building efficient anomaly detectors, image processing solutions, and secure network systems.
 
-A fast learner thriving in dynamic environments, I'm constantly seeking new technologies and opportunities to contribute. This GitHub profile showcases my journey, code, and desire to learn alongside the developer community..</p><p align='left'><b> You can view my resume <a href='https://drive.google.com/file/d/1AIhB9Z-9HLpNnJ-_KLyGn-co6o4wzw1E/view' target=_blank rel="noopener noreferrer"><u>here</u>.</a></b></p>
+A fast learner thriving in dynamic environments, I'm constantly seeking new technologies and opportunities to contribute. This GitHub profile showcases my journey, code, and desire to learn alongside the developer community..</p><p align='left'><b> You can view my resume <a href='https://drive.google.com/file/d/1kmLTwMK7LWdmSZsAcPCFiHmQTFYC93p_/view' target=_blank rel="noopener noreferrer"><u>here</u>.</a></b></p>
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=nainwalsanju alt=nainwalsanju /> </p>
